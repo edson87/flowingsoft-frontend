@@ -9,4 +9,4 @@
 
 ### Se esta usando Quick start de bootstrap que se configuro en index.js
 ### El formato de la fecha es: 2021-06-06 y por defecto se envia zona horaria UTC
-### URL de conexion localhost:8080
+### URL de conexion localhost:8080 al back end
