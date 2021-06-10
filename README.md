@@ -1,7 +1,7 @@
 # flowingsoft-frontend
 ## Version Angular CLI: 11.2.14
 
-### Ingresar a la carperta datetime y correr el proyecto con ng serve --o
+### Ingresar a la carperta datetime ejecutar el comando npm install y correr el proyecto con ng serve --o
 ## Librerias:
 ### "moment-timezone": "^0.5.33"
 ### ReactiveForm propio de angular
